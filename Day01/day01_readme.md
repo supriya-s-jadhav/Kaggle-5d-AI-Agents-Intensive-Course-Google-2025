@@ -4,7 +4,7 @@ Today’s whitepaper introduces Al agents. It presents a taxonomy of agent capab
 
 In today's codelabs, you'll be building your first AI agent and your first multi-agent system, using Agent Development Kit (ADK), powered by Gemini, and giving it the ability to use Google Search to answer questions with up-to-date information. In the second codelab, the focus will be on multi-agent systems, where you'll learn how to create teams of specialized agents and explore different architectural patterns.
 
-Day 1 Assignments
+#### Day 1 Assignments
 
 1. Complete the Unit 1 – “Introduction to Agents”:
 
